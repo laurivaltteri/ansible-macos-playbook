@@ -1,7 +1,9 @@
 ---
+#http://kalevala.finlit.fi/erisnimet
+computername: Tuuri
+hostname: tuuri
 
-computername: Kerngehäuse
-hostname: kerngehaeuse
+is_music_computer: yes
 
 finder_proxy_icon_hover_delay: 0
 
@@ -22,82 +24,64 @@ trackpad_tap_to_click: yes
 screensaver_ask_for_password: no
 screensaver_ask_for_password_in_seconds: 5
 
-shell_path: /usr/local/bin/zsh
+shell_path: /bin/zsh
 
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
-  - homebrew/cask-drivers
   - homebrew/cask-fonts
-  - jeromegamez/formulae
-  - github/gh
-  - aws/tap
 
 homebrew_apps:
-  - 1password
-  - alfred
-  - aws-vault
-  - bartender
-  - brave-browser
-  - cardhop
-  - cleanmymac
-  - dash
+  - basictex
+  - chrome
   - discord
   - docker
-  - fantastical
-  - firefox
-  - fliqlo
   - font-fira-code
-  - gpg-suite
-  - iterm2
-  - jetbrains-toolbox
-  - mailmate
-  - multimc
-  - paw
-  - sequel-pro
-  - sonos
-  - spillo
+  - font-hack
+  - font-hasklig
+  - font-jetbrains-mono
+  - google-chrome
   - slack
   - spotify
-  - sublime-merge
-  - sublime-text
   - tableplus
   - telegram
-  - transmit
+  - tor-browser
+  - transmission
+  - tunnelblick
   - twitch
+  - visual-studio-code
   - whatsapp
+  - zotero
+# vlc, sourcetree
 
 homebrew_packages:
-  - aws-shell
   - awscli
-  - aws-sam-cli
-  - bash
-  - chag
-  - composer
   - curl
-  - fasd
-  - gh
+  - ffmpeg
   - git
-  - httpie
   - imagemagick
-  - jq
   - make
-  - node
+  - mas
   - openssh
-  - php
-  - pkg-config
-  - python
-  - tree
+  - poetry
+  - pyenv
+  - r
+  - tmux
+  - transmission-cli
   - vim
   - wget
   - yadm
-  - watch
-  - zlib
-  - zsh
+
+homebrew_music_packages:
+  - native-access
 
 mas_apps:
   - { name: 1Blocker, id: 1107421413 }
   - { name: Bear, id: 1091189122 }
-  - { name: Pages, id: 409201541 }
   - { name: Patterns, id: 429449079 }
-  - { name: Tweetbot, id: 1384080005 }
+  - { name: Unsplash Wallpapers, id: 1284863847 }
+  - { name: Coin Tick, id: 1141688067}
+  - { name: Xcode, id: 497799835}
+  #- { name: Slack, id: 803453959}
+  #- { name: Telegram, id: 747648890}
+  #- { name: Whatsapp, id: 1147396723}

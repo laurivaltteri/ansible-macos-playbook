@@ -8,7 +8,6 @@
       with_first_found:
         - files:
             - config.yml
-            - default.config.yml
           skip: true
       tags: ['always']
 
@@ -19,3 +18,4 @@
       tags: [mas]
     - role: settings
       tags: [settings]
+    - role: terminal

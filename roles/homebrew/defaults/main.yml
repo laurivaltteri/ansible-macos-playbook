@@ -35,3 +35,5 @@ homebrew_apps: []
 #   - {name: make, install_options: "with-default-names" }
 #   - mysql@5.7
 homebrew_packages: []
+
+homebrew_music_packages: []
