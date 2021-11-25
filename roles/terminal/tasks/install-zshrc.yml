@@ -21,4 +21,8 @@
     dest: '~/.zshrc'
     backup: yes
     mode: 'u=rw,go=r'
-  
+
+- name: Copy terminal colors
+  template:
+    src: default.terminal.j2
+    dest: ~/.default.terminal
