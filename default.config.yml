@@ -77,11 +77,11 @@ homebrew_music_packages:
 
 mas_apps:
   - { name: 1Blocker, id: 1107421413 }
-  - { name: Bear, id: 1091189122 }
   - { name: Patterns, id: 429449079 }
   - { name: Unsplash Wallpapers, id: 1284863847 }
   - { name: Coin Tick, id: 1141688067}
   - { name: Xcode, id: 497799835}
+  #- { name: Bear, id: 1091189122 }
   #- { name: Slack, id: 803453959}
   #- { name: Telegram, id: 747648890}
   #- { name: Whatsapp, id: 1147396723}
