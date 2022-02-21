@@ -44,15 +44,14 @@ homebrew_apps:
   - slack
   - spotify
   - tableplus
-  - telegram
   - tor-browser
   - transmission
   - tunnelblick
-  - twitch
   - visual-studio-code
   - whatsapp
   - zotero
-# vlc, sourcetree
+  - dropbox
+# vlc, sourcetree, twitch, telegram
 
 homebrew_packages:
   - awscli
@@ -76,11 +75,12 @@ homebrew_music_packages:
   - native-access
 
 mas_apps:
-  - { name: 1Blocker, id: 1107421413 }
-  - { name: Patterns, id: 429449079 }
+  - { name: Ghostery, id: 1436953057 }
   - { name: Unsplash Wallpapers, id: 1284863847 }
   - { name: Coin Tick, id: 1141688067}
   - { name: Xcode, id: 497799835}
+  #- { name: Patterns, id: 429449079 }
+  #- { name: 1Blocker, id: 1107421413 }
   #- { name: Bear, id: 1091189122 }
   #- { name: Slack, id: 803453959}
   #- { name: Telegram, id: 747648890}
