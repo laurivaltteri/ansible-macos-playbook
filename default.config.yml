@@ -33,7 +33,6 @@ homebrew_taps:
 
 homebrew_apps:
   - basictex
-  - chrome
   - discord
   - docker
   - font-fira-code
