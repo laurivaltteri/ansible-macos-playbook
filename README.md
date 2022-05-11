@@ -32,6 +32,9 @@ git fetch upstream
 git rebase upstream/master
 ```
 
+## Also link dropbox and icloud
+`ln -s "/Users/$USER/Library/Mobile Documents/com~apple~CloudDocs" icloud`
+
 ## Acknowledgements
 
 This playbook is heavily inspired by
