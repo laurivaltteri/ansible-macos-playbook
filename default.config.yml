@@ -35,6 +35,7 @@ homebrew_apps:
   - basictex
   - discord
   - docker
+  - finicky # requires ~/.finicky.js
   - font-fira-code
   - font-hack
   - font-hasklig
