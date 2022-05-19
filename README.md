@@ -8,7 +8,8 @@ This is the playbook I use after a clean install of MacOS to set everything up.
 - Installs App Store apps with [`mas-cli`](https://github.com/mas-cli/mas) (Role `mas`)
 - Modifies MacOS settings (Role `settings`)
 - TODO: setup VSCode
-- TODO: customize terminal
+- TODO: customize terminal (install oh-my-zsh (theme frisk)
+- TODO: setup f-secure (freedome)
 
 ## Installation
 
