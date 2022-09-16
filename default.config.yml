@@ -45,6 +45,7 @@ homebrew_apps:
   - signal
   - slack
   - spotify
+  - starship
   - tableplus
   - tor-browser
   - transmission
@@ -75,6 +76,7 @@ homebrew_packages:
 
 homebrew_music_packages:
   - native-access
+  - rekordbox
 
 mas_apps:
   - { name: Ghostery, id: 1436953057 }
