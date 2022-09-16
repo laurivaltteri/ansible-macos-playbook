@@ -38,6 +38,7 @@ homebrew_apps:
   - finicky # requires ~/.finicky.js
   - font-fira-code
   - font-hack
+  - font-hack-nerd-font
   - font-hasklig
   - font-jetbrains-mono
   - google-chrome
