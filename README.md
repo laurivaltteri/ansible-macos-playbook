@@ -36,6 +36,10 @@ git rebase upstream/master
 ## Also link dropbox and icloud
 `ln -s "/Users/$USER/Library/Mobile Documents/com~apple~CloudDocs" icloud`
 
+## coloring for everything
+[Catppuccin](http://catppuccin.com/)
+
+
 ## Acknowledgements
 
 This playbook is heavily inspired by
