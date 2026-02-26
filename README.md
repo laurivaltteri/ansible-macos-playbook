@@ -66,6 +66,11 @@ https://gist.github.com/bgauduch/06a8c4ec2fec8fef6354afe94358c89e
 https://eshlox.net/2019/12/11/zsh-and-starship-on-macos
 toml file on protondrive
 
+# for own binfiles:
+```bash
+mkdir -p ~/bin
+echo 'export PATH="$HOME/bin:$PATH"' >> ~/.zshrc
+```
 
 ## Acknowledgements
 
